@@ -31,7 +31,7 @@ I am Junier Pithon Developer and CCNA Network engineer
 <br />
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YovkoBuchkov&layout=donut)](https://github.com/YovkoBuchkov/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YovkoBuchkov&layout=compact)](https://github.com/YovkoBuchkov/github-readme-stats)
 
 ### 📕 Latest Blog Posts
 
