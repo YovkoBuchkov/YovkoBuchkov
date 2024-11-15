@@ -2,6 +2,7 @@
 
 I am a Junior Python Developer and CCNA Network Engineer. 
 
+<img src="https://raw.githubusercontent.com/YovkoBuchkov/YovkoBuchkov/main/giphy.webp" alt="fire" width="200"/>
 ### 🚀 About Me:
 - 🔭 I'm a student at SoftUni and participating in the 100 Days of Code challenge on Udemy!
 - 🌱 I'm currently learning Python and improving my coding skills.
