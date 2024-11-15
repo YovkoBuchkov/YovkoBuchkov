@@ -1,8 +1,11 @@
-## Hi, I am Yovko Buchkov 👋
+## Hi, 👋 I am Yovko Buchkov <img src="https://raw.githubusercontent.com/YovkoBuchkov/YovkoBuchkov/main/github_octocat.webp" alt="cat" width="50"/>
 
 I am a Junior Python Developer and CCNA Network Engineer. 
 
-<img src="https://raw.githubusercontent.com/YovkoBuchkov/YovkoBuchkov/main/giphy.webp" alt="fire" width="200"/>
+
+
+
+
 ### 🚀 About Me:
 - 🔭 I'm a student at SoftUni and participating in the 100 Days of Code challenge on Udemy!
 - 🌱 I'm currently learning Python and improving my coding skills.
@@ -18,8 +21,8 @@ I am a Junior Python Developer and CCNA Network Engineer.
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/mysql-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 📈 GitHub Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YovkoBuchkov&layout=compact)](https://github.com/YovkoBuchkov/github-readme-stats)
