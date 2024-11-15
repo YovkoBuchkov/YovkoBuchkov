@@ -22,6 +22,7 @@ I am a Junior Python Developer and CCNA Network Engineer.
 
 ### GitHub Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YovkoBuchkov&layout=compact)](https://github.com/YovkoBuchkov/github-readme-stats)
+</br>
 [![Yovko's GitHub stats](https://github-readme-stats.vercel.app/api?username=YovkoBuchkov&show_icons=true&theme=radical)](https://github.com/YovkoBuchkov/github-readme-stats)
 
 ### 📕 Latest Blog Posts
@@ -29,8 +30,8 @@ I am a Junior Python Developer and CCNA Network Engineer.
 <!-- BLOG-POST-LIST:END -->
 
 ### 🏆 Achievements:
-- Successfully completed the Python Fundamentals course at SoftUni.
-- Participated in the 100 Days of Code challenge and improved my coding skills.
+- [in progress]Successfully completed the Python Fundamentals course at SoftUni.
+- [in progress] Participated in the 100 Days of Code challenge and improved my coding skills.
 - Contributed to several open-source projects.
 
 ### 🔗 Useful Links:
