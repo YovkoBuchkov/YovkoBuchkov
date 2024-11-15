@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi, I am Yovko Buchkov. 
+I am Junier Pithon Developer and CCNA Network engineer 👋
 
 <!--
 **YovkoBuchkov/YovkoBuchkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
