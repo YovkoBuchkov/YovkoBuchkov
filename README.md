@@ -32,7 +32,7 @@ I am a Junior Python Developer and CCNA Network Engineer.
 ### 🏆 Achievements:
 - [in progress]Successfully completed the Python Fundamentals course at SoftUni.
 - [in progress] Participated in the 100 Days of Code challenge and improved my coding skills.
-- Contributed to several open-source projects.
+- [in progress] Contributed to several open-source projects.
 
 ### 🔗 Useful Links:
 - [My Portfolio](https://github.com/YovkoBuchkov)
