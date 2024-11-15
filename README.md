@@ -20,7 +20,7 @@ I am a Junior Python Developer and CCNA Network Engineer.
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### GitHub Stats:
+### 📈 GitHub Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YovkoBuchkov&layout=compact)](https://github.com/YovkoBuchkov/github-readme-stats)
 </br>
 [![Yovko's GitHub stats](https://github-readme-stats.vercel.app/api?username=YovkoBuchkov&show_icons=true&theme=radical)](https://github.com/YovkoBuchkov/github-readme-stats)
