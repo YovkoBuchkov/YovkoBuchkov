@@ -40,3 +40,5 @@ I am a Junior Python Developer and CCNA Network Engineer.
 
 ### 🎉 Thank You for Visiting My Profile!
 Feel free to reach out and connect with me on LinkedIn or check out my projects on GitHub. Let's collaborate and build something amazing together!
+
+<img src="https://raw.githubusercontent.com/YovkoBuchkov/YovkoBuchkov/main/git_hub.webp" alt="fire" width="200"/>
