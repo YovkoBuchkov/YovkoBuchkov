@@ -8,7 +8,7 @@ I am a Junior Python Developer and CCNA Network Engineer.
 </div>
 
 <a target="_blank" align="right">
-  <img align="right" height="300" width="400" src="2.png">
+  <img align="right" height="300" width="400" src="1.png">
 </a>
  
 ### 🚀 About Me:
