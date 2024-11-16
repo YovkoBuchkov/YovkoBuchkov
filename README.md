@@ -7,7 +7,7 @@ I am a Junior Python Developer and CCNA Network Engineer.
 [![Email](https://img.shields.io/badge/Email-Yovo.Buchkov@gmail.com-red)](mailto:Yovo.Buchkov@gmail.com)
 </div>
 <a target="_blank" align="right">
-  <img align="right" height="150" width="200" src="https://user-images.githubusercontent.com/49222186/110210369-58458c80-7eb7-11eb-9d6e-2129358b3098.png">
+  <img align="right" height="150" width="200" src="1.png">
 </a>
 
 ### 🚀 About Me:
