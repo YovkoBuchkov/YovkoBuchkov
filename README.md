@@ -2,6 +2,9 @@
 <h1> Hi! 👋 I am Yovko Buchkov <img src="https://raw.githubusercontent.com/YovkoBuchkov/YovkoBuchkov/main/github_octocat.webp" alt="octo_cat" width="50"/></h1>
 
 I am a Junior Python Developer and CCNA Network Engineer. 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yovko%20Buchkov-blue)](https://www.linkedin.com/in/yovko-buchkov-87098aba)
+[![Email](https://img.shields.io/badge/Email-Yovo.Buchkov@gmail.com-red)](mailto:Yovo.Buchkov@gmail.com)
 </div>
 <a target="_blank" align="right">
   <img align="right" height="150" width="200" src="https://user-images.githubusercontent.com/49222186/110210369-58458c80-7eb7-11eb-9d6e-2129358b3098.png">
@@ -12,14 +15,6 @@ I am a Junior Python Developer and CCNA Network Engineer.
 - 🌱 I'm currently learning Python and improving my coding skills.
 - 👯 I'm looking to collaborate with other content creators and developers.
 - 🥅 2024 Goals: Contribute more to Open Source projects and enhance my skills.
-
-
-
-### Connect with Me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yovko%20Buchkov-blue)](https://www.linkedin.com/in/yovko-buchkov-87098aba)
-[![GitHub](https://img.shields.io/badge/GitHub-YovkoBuchkov-blue)](https://github.com/YovkoBuchkov)
-[![Email](https://img.shields.io/badge/Email-Yovo.Buchkov@gmail.com-red)](mailto:Yovo.Buchkov@gmail.com)
 
 ### <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 18px> Languages and Tools I use
 <a href="https://github.com/YovkoBuchkov/Python">
