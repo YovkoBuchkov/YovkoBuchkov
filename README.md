@@ -7,14 +7,15 @@ I am a Junior Python Developer and CCNA Network Engineer.
 [![Email](https://img.shields.io/badge/Email-Yovo.Buchkov@gmail.com-red)](mailto:Yovo.Buchkov@gmail.com)
 </div>
 
+<a target="_blank" align="right">
+  <img align="right" height="200" width="300" src="1.png">
+</a>
+
 ### 🚀 About Me:
 - 🔭 I'm a student at SoftUni and participating in the 100 Days of Code challenge on Udemy!
 - 🌱 I'm currently learning Python and improving my coding skills.
 - 👯 I'm looking to collaborate with other content creators and developers.
 - 🥅 2024 Goals: Contribute more to Open Source projects and enhance my skills.
-<a target="_blank" align="right">
-  <img align="right" height="200" width="300" src="1.png">
-</a>
 
 <div align="center">
 <h1> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 18px> Languages and Tools I use </h1>
