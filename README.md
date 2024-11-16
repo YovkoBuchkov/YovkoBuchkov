@@ -6,9 +6,6 @@ I am a Junior Python Developer and CCNA Network Engineer.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yovko%20Buchkov-blue)](https://www.linkedin.com/in/yovko-buchkov-87098aba)
 [![Email](https://img.shields.io/badge/Email-Yovo.Buchkov@gmail.com-red)](mailto:Yovo.Buchkov@gmail.com)
 </div>
-<a target="_blank" align="right">
-  <img align="right" height="150" width="200" src="1.png">
-</a>
 
 ### 🚀 About Me:
 - 🔭 I'm a student at SoftUni and participating in the 100 Days of Code challenge on Udemy!
