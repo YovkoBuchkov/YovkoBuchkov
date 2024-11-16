@@ -13,6 +13,8 @@ I am a Junior Python Developer and CCNA Network Engineer.
 - 👯 I'm looking to collaborate with other content creators and developers.
 - 🥅 2024 Goals: Contribute more to Open Source projects and enhance my skills.
 
+
+
 ### Connect with Me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yovko%20Buchkov-blue)](https://www.linkedin.com/in/yovko-buchkov-87098aba)
@@ -41,6 +43,7 @@ I am a Junior Python Developer and CCNA Network Engineer.
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+![Visitor Count](https://profile-counter.glitch.me/{YovkoBuchkov}/count.svg)
 
 ### 🏆 Achievements:
 - [in progress]Successfully completed the Python Fundamentals course at SoftUni.
