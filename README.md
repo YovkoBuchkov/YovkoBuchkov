@@ -1,4 +1,4 @@
-## Hi! 👋 I am Yovko Buchkov <img src="https://raw.githubusercontent.com/YovkoBuchkov/YovkoBuchkov/main/github_octocat.webp" alt="name" width="50"/>
+## Hi! 👋 I am Yovko Buchkov <img src="https://raw.githubusercontent.com/YovkoBuchkov/YovkoBuchkov/main/github_octocat.webp" alt="octo_cat" width="50"/>
 
 I am a Junior Python Developer and CCNA Network Engineer. 
 
