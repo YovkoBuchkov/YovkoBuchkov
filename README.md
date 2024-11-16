@@ -16,7 +16,10 @@ I am a Junior Python Developer and CCNA Network Engineer.
 - 👯 I'm looking to collaborate with other content creators and developers.
 - 🥅 2024 Goals: Contribute more to Open Source projects and enhance my skills.
 
-### <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 18px> Languages and Tools I use
+<div align="center">
+<h1> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 18px> Languages and Tools I use </h1>
+  </div>
+  <div align="center">
 <a href="https://github.com/YovkoBuchkov/Python">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
 </a>
@@ -28,16 +31,15 @@ I am a Junior Python Developer and CCNA Network Engineer.
 </a>
 <a href="https://git-scm.com/">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</a>
+</a> 
 
 ### 📈 GitHub Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YovkoBuchkov&layout=compact)](https://github.com/YovkoBuchkov/github-readme-stats)
-</br>
-[![Yovko's GitHub stats](https://github-readme-stats.vercel.app/api?username=YovkoBuchkov&show_icons=true&theme=radical)](https://github.com/YovkoBuchkov/github-readme-stats)
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
 
 
 ### 🏆 Achievements:
@@ -56,3 +58,4 @@ Feel free to reach out and connect with me on LinkedIn or check out my projects 
 
 <img src="https://raw.githubusercontent.com/YovkoBuchkov/YovkoBuchkov/main/git_hub.webp" alt="fire" width="200"/>
 
+</div>
