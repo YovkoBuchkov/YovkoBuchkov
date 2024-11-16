@@ -43,7 +43,7 @@ I am a Junior Python Developer and CCNA Network Engineer.
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-![Visitor Count](https://profile-counter.glitch.me/{YovkoBuchkov}/count.svg)
+
 
 ### 🏆 Achievements:
 - [in progress]Successfully completed the Python Fundamentals course at SoftUni.
@@ -58,3 +58,4 @@ I am a Junior Python Developer and CCNA Network Engineer.
 Feel free to reach out and connect with me on LinkedIn or check out my projects on GitHub. Let's collaborate and build something amazing together!
 
 <img src="https://raw.githubusercontent.com/YovkoBuchkov/YovkoBuchkov/main/git_hub.webp" alt="fire" width="200"/>
+![Visitor Count](https://profile-counter.glitch.me/{YovkoBuchkov}/count.svg)
