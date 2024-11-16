@@ -4,7 +4,9 @@ I am a Junior Python Developer and CCNA Network Engineer.
 
 
 
-
+<a target="_blank" align="right">
+  <img align="right" height="150" width="200" src="https://user-images.githubusercontent.com/49222186/110210369-58458c80-7eb7-11eb-9d6e-2129358b3098.png">
+</a>
 
 ### 🚀 About Me:
 - 🔭 I'm a student at SoftUni and participating in the 100 Days of Code challenge on Udemy!
@@ -40,10 +42,6 @@ I am a Junior Python Developer and CCNA Network Engineer.
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
-<a target="_blank" align="right">
-  <img align="right" height="150" width="200" src="https://user-images.githubusercontent.com/49222186/110210369-58458c80-7eb7-11eb-9d6e-2129358b3098.png">
-</a>
 
 ### 🏆 Achievements:
 - [in progress]Successfully completed the Python Fundamentals course at SoftUni.
