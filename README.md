@@ -17,8 +17,8 @@ I am a Junior Python Developer and CCNA Network Engineer.
 - 👯 I'm looking to collaborate with other content creators and developers.
 - 🥅 2024 Goals: Contribute more to Open Source projects and enhance my skills.
 
-<div align="center">
-<h1> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 18px> Languages and Tools I use </h1>
+<div align="center"><h1>
+   <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 18px> Languages and Tools I use </h1>
 </div>
   <div align="center">
 <a href="https://github.com/YovkoBuchkov/Python">
