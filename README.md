@@ -33,6 +33,13 @@ I am a Junior Python Developer and CCNA Network Engineer.
   <img src="https://img.shields.io/badge/css-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="CSS" />
 </a>
 
+**Libraries:**:
+
+</a>
+<a href="https://www.w3schools.com/css/">
+  <img src="https://img.shields.io/badge/html-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="HTML" />
+</a>
+
 **Tools**:
 
 <a href="https://github.com/">
