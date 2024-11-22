@@ -39,6 +39,9 @@ I am a Junior Python Developer and CCNA Network Engineer.
 <a href="https://www.w3schools.com/css/">
   <img src="https://img.shields.io/badge/html-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="HTML" />
 </a>
+<a href="https://wiki.python.org/moin/TkInter"><img src="https://img.shields.io/badge/Tkinter-1F8F8C?style=for-the-badge&logo=python&logoColor=white" alt="Tkinter" /></a>
+<a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /></a>
+
 
 **Tools**:
 
