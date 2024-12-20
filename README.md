@@ -41,6 +41,8 @@ I am a Junior Python Developer and CCNA Network Engineer.
 </a>
 <a href="https://wiki.python.org/moin/TkInter"><img src="https://img.shields.io/badge/Tkinter-1F8F8C?style=for-the-badge&logo=python&logoColor=white" alt="Tkinter" /></a>
 <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /></a>
+<a href="https://www.selenium.dev/"><img src="https://img.shields.io/badge/Selenium-orange?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" /></a>
+
 
 
 **Tools**:
